@@ -48,7 +48,7 @@ GEM
       io-like (~> 0.3.0)
     arel (9.0.0)
     bindex (0.8.1)
-    bootsnap (1.7.3)
+    bootsnap (1.7.5)
       msgpack (~> 1.0)
     builder (3.2.4)
     byebug (11.0.1)
@@ -184,7 +184,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  bootsnap (= 1.7.3)
+  bootsnap (= 1.7.5)
   byebug
   capybara (>= 2.15)
   chromedriver-helper
